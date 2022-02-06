@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi, I'm Tyler! 👋
 
+- :mortar_board: I'm currently studying at The Ohio State University
+- :earth_americas: :earth_africa: :earth_asia: I want to travel the world!
+- :tiger2: I'm from Cincinnati and a huge Bengals fan, WHO DEY! :tiger:
+- ⚡ Fun fact: I have been trapped in an elevator! :anguished:
 <!--
 **tsimpson2/tsimpson2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +16,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I have been trapped in an elevator! :anguished:
 -->
